@@ -1,0 +1,10 @@
+88,a,b,c
+13,Gia,inspirational,drama
+3,Oppenheimer,aesthetic,istoric
+54,Shutter_Island,genial,aventura
+16,Libertate,genial,actiune
+64,Libertate,aesthetic,drama
+41,Inception,aesthetic,istoric
+92,Wind_River,revelator,razboi
+28,Atonement,filozofic,misterthriller
+30,Libertate,emotionand,actiune

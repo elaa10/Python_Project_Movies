@@ -1,0 +1,6 @@
+13,Libertate,genial,actiune
+64,Libertate,aesthetic,drama
+34,Inception,aesthetic,istoric
+92,Wind_River,revelator,razboi
+88,Atonement,filozofic,misterthriller
+1,Atonement,foarte_bun,razboi
